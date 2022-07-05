@@ -1,0 +1,3 @@
+# Project exclude paths
+/next-test/.next/
+/next-test/node_modules/
